@@ -43,7 +43,7 @@ body {
 }
 
 .main {
-    height: 86vh;
+    height: 50vh;
     display: flex;
     justify-content: center;
     align-items: center;
